@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/spear/Desktop/repo_zyang07/final_exam/UnionBySize/Kruskal.h
+iostream
+-
+vector
+-
+
+C:/Users/spear/Desktop/repo_zyang07/final_exam/UnionBySize/UnionBySize.h
+iostream
+-
+vector
+-
+
+C:/Users/spear/Desktop/repo_zyang07/final_exam/UnionBySize/main.cpp
+iostream
+-
+UnionBySize.h
+C:/Users/spear/Desktop/repo_zyang07/final_exam/UnionBySize/UnionBySize.h
+Kruskal.h
+C:/Users/spear/Desktop/repo_zyang07/final_exam/UnionBySize/Kruskal.h
+
