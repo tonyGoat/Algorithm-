@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/spear/Desktop/repo_zyang07/a6/graphs/src/DirectedGraph.h
+iostream
+-
+vector
+-
+unordered_set
+-
+
+C:/Users/spear/Desktop/repo_zyang07/a6/graphs/src/main.cpp
+iostream
+-
+DirectedGraph.h
+C:/Users/spear/Desktop/repo_zyang07/a6/graphs/src/DirectedGraph.h
+
